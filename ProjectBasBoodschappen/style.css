@@ -1,0 +1,38 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+  }
+
+  
+  h1 {
+    color: #333;
+  }
+  
+  nav {
+    background-color: #ccc;
+    padding: 5px;
+    margin-bottom: 20px;
+  }
+  
+  nav a {
+    color: #333;
+    text-decoration: none;
+    margin-right: 10px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  table td, table th {
+    padding: 8px;
+    border: 1px solid #e30613;
+  }
+  
+  table th {
+    background-color: #ccc;
+    font-weight: bold;
+  }
+
